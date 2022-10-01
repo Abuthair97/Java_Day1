@@ -14,6 +14,8 @@ public class Employeee {
     void getDetails(){
         System.out.println(Id+" ");
         System.out.println(name+" ");
+        
+        
         System.out.println(salary+" ");
     }
 
